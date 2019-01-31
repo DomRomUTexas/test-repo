@@ -1,6 +1,3 @@
 # test-repo
-**Hey**
-***it's Dom.***
-Branch!!
-hello
+DOM IS COOOOOOL
 
